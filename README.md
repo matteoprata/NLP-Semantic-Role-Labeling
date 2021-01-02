@@ -1,4 +1,4 @@
-# Natural Language Processing Homework 3 by Matteo Prata
+# Natural Language Processing Homework 3
 
 Read the report for the details.
 
